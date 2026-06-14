@@ -107,6 +107,7 @@ Access the built-in web dashboard at `http://localhost:18789/` to chat, manage i
 | [Afternoon Setup Guide](https://amankhan1.substack.com/p/how-to-get-clawdbotmoltbotopenclaw) | All | Quick setup walkthrough |
 | [Remote OpenClaw](https://remoteopenclaw.com) | Managed Cloud | Managed OpenClaw hosting on dedicated infrastructure — 12-step security hardening, Tailscale, workflow configuration, dedicated Slack support, 60+ deployment guides |
 | [OctoClaw](https://octoclaw.ai) | Managed Cloud | Fully managed EU hosting — zero setup, pre-provisioned phone number, AI starter budget included, GDPR-compliant |
+| [OneClickClaw](https://oneclickclaw.io) | Managed Cloud | Fully managed, security-hardened OpenClaw hosting on a dedicated EU VPS. BYOK, managed updates and backups, WhatsApp/Telegram/Discord, GDPR data residency. 5-minute setup, plans from €14.99/mo. |
 | [SlackClaw](https://slackclaw.ai) | Managed Cloud | Managed OpenClaw hosting for Slack — credit-based pricing, per-channel permissions, audit logging, auto-updates. No per-seat fees. |
 | [RapidClaw](https://rapidclaw.dev) | Managed Cloud | Managed OpenClaw hosting for non-technical operators — zero terminal/Docker/SSH setup, deploys in minutes, opinionated defaults. |
 
